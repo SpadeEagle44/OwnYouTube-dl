@@ -28,4 +28,4 @@ This command will download the video from the URL you gave, get video and audio 
 
 ## Thanks
 
-I just want to thanks yt-dlp and ffmpeg developers and Github releases mainteners of these two wonderful software. As always, feel free to get, use and modify the OwnYouTube-dl code for your own needs.
+I just want to thanks yt-dlp and ffmpeg developers and Github releases maintainers of these two wonderful software. As always, feel free to get, use and modify the OwnYouTube-dl code for your own needs.
